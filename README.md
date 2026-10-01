@@ -49,18 +49,6 @@ Built with **FastAPI**, **TensorFlow**, and **Streamlit**, containerised with **
 
 ---
 
-## Quick Start
-
-### Prerequisites
-- Docker & Docker Compose installed
-
-
-
-- UI → http://localhost:8501  
-- API docs → http://localhost:8000/docs
-
----
-
 ## Model Pipeline
 
 1. **Feature Extraction** (`Final_Testing.py`)  
