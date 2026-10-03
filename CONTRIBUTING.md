@@ -5,7 +5,7 @@ Thank you for your interest in contributing to FileGuard! This document provides
 ## Code of Conduct
 
 - Be respectful and inclusive
-- Report security issues privately to mayur.nhavalde@gmail.com
+- Report security issues privately to mnhavalde1@gmail.com
 - No harassment or discrimination
 
 ## Getting Started
@@ -100,6 +100,6 @@ Use GitHub Issues with:
 
 ## Questions?
 
-Open a discussion or email mayur.nhavalde@gmail.com
+Open a discussion or email mnhavalde1@gmail.com
 
 Thank you for contributing! 🎉
