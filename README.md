@@ -7,6 +7,10 @@ Built with **FastAPI**, **TensorFlow**, and **Streamlit**, containerised with **
 
 ---
 
+DEPLOYED ON STREAMLIT - (https://624cue5p2xzq8jevuyxth6.streamlit.app/)
+
+---
+
 ## Architecture
 
 ```
